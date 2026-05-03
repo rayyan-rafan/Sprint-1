@@ -306,12 +306,7 @@ Include:
 
 ---
 
-## 👨‍💻 Author
 
-Siddhartha Raja  
-MLOps / LLMOps Engineer  
-
----
 
 ## ⭐ Notes
 
