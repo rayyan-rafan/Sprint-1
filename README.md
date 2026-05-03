@@ -14,7 +14,7 @@ This project is part of a capstone Sprint 1, focused on building a foundational 
 
 ## 🧱 Tech Stack
 
-- Backend: Django (Python 3.12)
+- Backend: Django (Python 3.10)
 - Database: MySQL
 - CI/CD: GitHub Actions
 - Testing: Django Test Framework
